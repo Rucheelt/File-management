@@ -1,4 +1,1 @@
-Hello , 
-I am rucheel doing my coding classes on file management
-
-This is opening and reading a file while editing it 
+ I am using write mode so now this will be replacing the original textsThis is appending in the text , whatever i wrote in the write one and this will be added not replaced

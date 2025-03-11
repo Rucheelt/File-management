@@ -1,0 +1,4 @@
+Hello , 
+I am rucheel doing my coding classes on file management
+
+This is opening and reading a file while editing it 
